@@ -1,2 +1,0 @@
-# nifaker
-yes
